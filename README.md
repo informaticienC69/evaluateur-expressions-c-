@@ -15,8 +15,3 @@ Sortie : 20
 
 ## Auteur
 Hady Kaloga
-Mame Diarra Bousso NDIAYE 
-Mame Aita NDOYE
-Mouhamed BOUSSO
-Pape Yakham ndené MBAYE
-Natou CISSE
